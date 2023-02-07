@@ -1,0 +1,99 @@
+{
+  "users": [
+    {
+      "username": "sdklfksd",
+      "email": "shashikanth7843@gmail.com",
+      "password": "dfsdfasdf",
+      "phone": "9090090909",
+      "id": 1
+    },
+    {
+      "username": "sdfasdlfj;asdkfjl",
+      "email": "shashikanth7846@gmail.com",
+      "password": "dfasdfdsf",
+      "phone": "9090909090",
+      "id": 2
+    },
+    {
+      "username": "shashikanth",
+      "email": "shashikanth@email.com",
+      "password": "1234",
+      "phone": "9080723612",
+      "id": 3
+    },
+    {
+      "username": "shashikanth",
+      "email": "shashikanth1@email.com",
+      "password": "9080723612",
+      "phone": "9080723612",
+      "id": 4
+    },
+    {
+      "username": "shashikanth",
+      "email": "shashikanth2@email.com",
+      "password": "9080723612",
+      "phone": "9080723612",
+      "id": 5
+    },
+    {
+      "username": "shashikanth",
+      "email": "shashikanth3@email.com",
+      "password": "9080723612",
+      "phone": "9080723612",
+      "id": 6
+    },
+    {
+      "username": "shashikanth",
+      "email": "shashikanth4@email.com",
+      "password": "9080723612",
+      "phone": "9080723612",
+      "id": 7
+    },
+    {
+      "username": "shashikanth123",
+      "email": "shashikanth@gmail.com",
+      "password": "shashi",
+      "ConfirmPassword": "shashi",
+      "phone": "9080723618",
+      "id": 8
+    },
+    {
+      "username": "shashikanth",
+      "email": "shashikanth1@gmail.com",
+      "password": "shashi",
+      "ConfirmPassword": "shashik",
+      "phone": "9080723614",
+      "id": 9
+    },
+    {
+      "username": "shashikanth123",
+      "email": "shashikanth1998@gmail.com",
+      "password": "shashi",
+      "ConfirmPassword": "shashi",
+      "phone": "9030979074",
+      "id": 10
+    },
+    {
+      "username": "shashikanth98",
+      "email": "shashi1998@gmail.com",
+      "password": "shashi",
+      "ConfirmPassword": "shashi",
+      "phone": "9090909090",
+      "Date": "1998-09-15",
+      "Male": "",
+      "Female": "",
+      "id": 11
+    },
+    {
+      "username": "ganesh",
+      "email": "ganesh@gmail.com",
+      "password": "ganesh",
+      "ConfirmPassword": "ganesh",
+      "phone": "8989899098",
+      "Date": "1990-07-06",
+      "Male": "Male",
+      "Female": "",
+      "id": 12
+    }
+  ]
+}
